@@ -7,7 +7,7 @@ Motto Garupa Life!
 Download Garupa 4-panel comics.
 
 ```
-$ garupalife.exe scrape
+$ garupalife scrape
 ```
 
 Scraping options:
@@ -19,7 +19,7 @@ Scraping options:
 |`--offset`|Backnumber offset (Default: `1`)|
 
 ```
-$ garupalife.exe scrape -d output --offset 47 -t 1000
+$ garupalife scrape -d output --offset 47 -t 1000
 Extract URLs: 41 - 50
 Extract URLs: 51 - 60
 Extract URLs: 61 - 70
